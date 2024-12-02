@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/amauch-adobe/Shared%20Documents/franklin-training-sp
+/:
+    url: https://content.da.live/amauch-adobe/franklin-training-sp/
+    type: markup
+/: https://adobe.sharepoint.com/:f:/r/sites/amauch-adobe/Shared%20Documents/franklin-training-sp
